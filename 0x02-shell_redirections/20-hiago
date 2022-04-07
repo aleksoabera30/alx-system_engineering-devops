@@ -1,2 +1,2 @@
 #!/bin/bash
-read test |echo $test | tr -d "c/C"
+tr -d "cC"
